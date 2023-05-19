@@ -33,13 +33,13 @@ If i have more time with the dataset. i think i will focus about distribution of
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png]
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png]
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 By the project Predict Bike Sharing. I have some exprerience about using Sagemaker and Autogluon to processing, visualliztion data and traning model. 
